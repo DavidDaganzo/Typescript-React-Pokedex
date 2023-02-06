@@ -1,7 +1,6 @@
 import { Link } from "react-router-dom";
 import styles from "./footer.module.css";
 
-// Assets
 import PokemonPic from "../assets/pikachu.png";
 import LocationPic from "../assets/pointer.png";
 import ItemsPic from "../assets/pokeball.png";
